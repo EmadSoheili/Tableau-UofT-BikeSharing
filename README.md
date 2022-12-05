@@ -20,12 +20,28 @@ we can see 7 different graphs, organized in 3 different dashboard and integrated
 ![](Images/Dashboard1.png)
 
 In this dashboard we can see the time related graphs.
+The upper graph shows the number of rides considering their duration (Hours and minutes).
+The lower graph shows the number of rides considering their duration (Hours and minutes), breakdown by gender.
 
 
 ***Filters***
-* Duration (Hour)
-* Gender
+* Duration (Hour) - Both Charts
+* Gender - Just lower chart
 
 ***Insight***
-* Most trips are less than 1 hour.
-* Men has a higher share in rides but the duration pattern is the same for men and women.
+  * Most trips are less than 1 hour.
+  * Men has a higher share in rides but the duration pattern is the same for men and women.
+
+---
+
+### Dashboard 2: Time Density Dashboard
+
+![](Images/Dashboard2.png)
+
+In this dashboard we can see the density related graphs.
+The left graph shows the density of rides breakdown by hours and weekdays.
+The right graph illustrate the density of rides breakdown by hours, weekdays, and gender.
+
+***Insight***
+  * Most demands were during working days (Mon-Fri) at morning (6-10AM) and Evening (5-8PM).
+  * Men and women followed the same pattern of using Citi Bike considering he day and hour.
