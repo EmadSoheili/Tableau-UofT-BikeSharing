@@ -4,6 +4,11 @@
 
 ---
 
+Link to dashboard
+https://public.tableau.com/app/profile/emad.soheili/viz/CitiBike-Aug2019/NYCCitiBikeStory?publish=yes
+
+---
+
 ## Overview
 
 In order to have a good understanding of different aspect of a bike sharing startup, we have investigated Citi Bike data for New York for August 2019.
