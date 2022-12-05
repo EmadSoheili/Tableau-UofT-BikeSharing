@@ -17,7 +17,7 @@ we can see 7 different graphs, organized in 3 different dashboard and integrated
 
 ### Dashboard 1: Duration Dashboard
 
-![](images/Dashboard1.png)
+![](Images/Dashboard1.png)
 
 In this dashboard we can see the time related graphs.
 
