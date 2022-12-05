@@ -38,17 +38,23 @@ The lower graph shows the number of rides considering their duration (Hours and 
 
 ---
 
-### Dashboard 2: Time Density Dashboard
+### Dashboard 2: Heatmap Dashboard
 
 ![](Images/Dashboard2.png)
 
 In this dashboard we can see the density related graphs.
-The left graph shows the density of rides breakdown by hours and weekdays.
-The right graph illustrate the density of rides breakdown by hours, weekdays, and gender.
+The left graph shows the number of trips breakdown by hours and weekdays.
+The middle graph shows the number of trips breakdown by subscription, weekdays, and gender.
+The right graph illustrate the number of trips breakdown by hours, weekdays, and gender.
+
+***Filters***
+* Gender - All graphs
+* Subscription - Just middle graph
 
 ***Insight***
   * Most demands were during working days (Mon-Fri) at morning (6-10AM) and Evening (5-8PM).
   * Men and women followed the same pattern of using Citi Bike considering he day and hour.
+  * A great portion of out trips is for subscribers.
 
 ---
 
@@ -61,8 +67,8 @@ The left graph shows the number of trips against starting hours.
 The right chart is illustrating the location of starting station of trips and their relative amount (by color and size).
 
 ***Filters***
-* Starting Hour - Just right chart
-* Gender - Both Charts
+* Starting Hour - Just right graphs
+* Gender - Both graphs
 
 ***Insight***
   * Overall peak time is 7-10AM and 5-7PM.
