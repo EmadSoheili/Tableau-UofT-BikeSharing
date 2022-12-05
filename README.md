@@ -32,7 +32,7 @@ The lower graph shows the number of rides considering their duration (Hours and 
 * Duration (Hour) - Both Charts
 * Gender - Just lower chart
 
-***Insight***
+***Insights***
   * Most trips are less than 1 hour.
   * Men has a higher share in rides but the duration pattern is the same for men and women.
 
@@ -51,7 +51,7 @@ The right graph illustrate the number of trips breakdown by hours, weekdays, and
 * Gender - All graphs
 * Subscription - Just middle graph
 
-***Insight***
+***Insights***
   * Most demands were during working days (Mon-Fri) at morning (6-10AM) and Evening (5-8PM).
   * Men and women followed the same pattern of using Citi Bike considering he day and hour.
   * A great portion of out trips is for subscribers.
@@ -70,7 +70,7 @@ The right chart is illustrating the location of starting station of trips and th
 * Starting Hour - Just right graphs
 * Gender - Both graphs
 
-***Insight***
+***Insights***
   * Overall peak time is 7-10AM and 5-7PM.
 
 ---
