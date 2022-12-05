@@ -45,3 +45,42 @@ The right graph illustrate the density of rides breakdown by hours, weekdays, an
 ***Insight***
   * Most demands were during working days (Mon-Fri) at morning (6-10AM) and Evening (5-8PM).
   * Men and women followed the same pattern of using Citi Bike considering he day and hour.
+
+---
+
+### Dashboard 3: Start Information Dashboard
+
+![](Images/Dashboard3.png)
+
+In this dashboard we can see the Information about trips' start.
+The left graph shows the number of trips against starting hours.
+The right chart is illustrating the location of starting station of trips and their relative amount (by color and size).
+
+***Filters***
+* Starting Hour - Just right chart
+* Gender - Both Charts
+
+***Insight***
+  * Overall peak time is 7-10AM and 5-7PM.
+
+---
+
+## Summary
+
+***Summary of steps***
+1. Load csv file in pandas DataFrame.
+2. Change the duration from seconds to datetime format.
+3. Export a new csv file.
+4. Load the new csv file in Tableau.
+5. Creat an extract to avoid using a live data connection.
+6. Creat 7 different graphs.
+7. Creat 3 different filters (Duration (Hour), Start Time (Hour), and Gender)
+8. Creat 3 different dashboards using the graphs and filtes.
+9. Creat an integrated story.
+10. Compelte the Readme file using Markdown.
+
+---
+
+***Suggestion for future vizualization***
+1. Create a Dashboard showing major (e.g. stations with more than 10000 trips) starting and end stations side by side.
+2. Creat visualizations to see the effect of subscription on number and duraton of trips.
