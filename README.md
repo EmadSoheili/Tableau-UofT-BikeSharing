@@ -21,7 +21,7 @@ we can see 7 different graphs, organized in 3 different dashboard and integrated
 
 ### Dashboard 1: Duration Dashboard
 
-![](Images/Dashboard1.png)
+![](Images/Dash1.png)
 
 In this dashboard we can see the time related graphs.
 The upper graph shows the number of rides considering their duration (Hours and minutes).
@@ -40,7 +40,7 @@ The lower graph shows the number of rides considering their duration (Hours and 
 
 ### Dashboard 2: Heatmap Dashboard
 
-![](Images/Dashboard2.png)
+![](Images/Dash2.png)
 
 In this dashboard we can see the density related graphs.
 The left graph shows the number of trips breakdown by hours and weekdays.
@@ -60,7 +60,7 @@ The right graph illustrate the number of trips breakdown by hours, weekdays, and
 
 ### Dashboard 3: Start Information Dashboard
 
-![](Images/Dashboard3.png)
+![](Images/Dash3.png)
 
 In this dashboard we can see the Information about trips' start.
 The left graph shows the number of trips against starting hours.
