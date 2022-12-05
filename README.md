@@ -72,19 +72,19 @@ The right chart is illustrating the location of starting station of trips and th
 ## Summary
 
 ***Summary of steps***
- 1. Load csv file in pandas DataFrame.
- 2. Change the duration from seconds to datetime format.
- 3. Export a new csv file.
- 4. Load the new csv file in Tableau.
- 5. Creat an extract to avoid using a live data connection.
- 6. Creat 7 different graphs.
- 7. Creat 3 different filters (Duration (Hour), Start Time (Hour), and Gender)
- 8. Creat 3 different dashboards using the graphs and filtes.
- 9. Creat an integrated story.
- 10. Compelte the Readme file using Markdown.
+   1. Load csv file in pandas DataFrame.
+   2. Change the duration from seconds to datetime format.
+   3. Export a new csv file.
+   4. Load the new csv file in Tableau.
+   5. Creat an extract to avoid using a live data connection.
+   6. Creat 7 different graphs.
+   7. Creat 3 different filters (Duration (Hour), Start Time (Hour), and Gender)
+   8. Creat 3 different dashboards using the graphs and filtes.
+   9. Creat an integrated story.
+   10. Compelte the Readme file using Markdown.
 
 ---
 
 ***Suggestion for future vizualization***
- 1. Create a Dashboard showing major (e.g. stations with more than 10000 trips) starting and end stations side by side.
- 2. Creat visualizations to see the effect of subscription on number and duraton of trips.
+   1. Create a Dashboard showing major (e.g. stations with more than 10000 trips) starting and end stations side by side.
+   2. Creat visualizations to see the effect of subscription on number and duraton of trips.
