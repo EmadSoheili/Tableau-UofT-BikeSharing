@@ -4,7 +4,7 @@
 
 ---
 
-[Link to dashboard](https://public.tableau.com/app/profile/emad.soheili/viz/CitiBike-Aug2019/NYCCitiBikeStory?publish=yes)
+[Link to Story](https://public.tableau.com/app/profile/emad.soheili/viz/CitiBike-Aug2019/NYCCitiBikeStory?publish=yes)
 
 ---
 
